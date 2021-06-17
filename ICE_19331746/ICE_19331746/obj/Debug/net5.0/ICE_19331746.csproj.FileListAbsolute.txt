@@ -1,0 +1,16 @@
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\bin\Debug\net5.0\ICE_19331746.exe
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\bin\Debug\net5.0\ICE_19331746.deps.json
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\bin\Debug\net5.0\ICE_19331746.runtimeconfig.json
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\bin\Debug\net5.0\ICE_19331746.runtimeconfig.dev.json
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\bin\Debug\net5.0\ICE_19331746.dll
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\bin\Debug\net5.0\ref\ICE_19331746.dll
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\bin\Debug\net5.0\ICE_19331746.pdb
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.csproj.AssemblyReference.cache
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.AssemblyInfoInputs.cache
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.AssemblyInfo.cs
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.dll
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ref\ICE_19331746.dll
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.pdb
+C:\Users\Ismail\source\repos\ICE_19331746\ICE_19331746\obj\Debug\net5.0\ICE_19331746.genruntimeconfig.cache
